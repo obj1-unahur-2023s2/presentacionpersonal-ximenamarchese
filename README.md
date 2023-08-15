@@ -11,7 +11,7 @@ Me inscribe en la carrera de Programacion en el año 2022 despues
 
 Ademas de estudiar la Licenciatura en Programacion tengo muchos hobbies y actividades que me gusta hacer
 
-![Foto Personal](.assets/IMG_20230525_003806_460.jpg)
+![Foto Personal](./assets/IMG_20230525_003806_460.jpg)
 
 Ademas de estudiar la Linenciatura en Programacion tengo muchos hobbies y actividades que me gusta hacer en mi tiempo libre 
 
