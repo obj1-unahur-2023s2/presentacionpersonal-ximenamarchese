@@ -1,29 +1,21 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
+# Ximena Marchese
+___
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Mi nombre es Ximena pero suelen decirme **Xime** o **Toti** es mi cuarto cuatrimestre en la carrera estoy muy conforme porque me gusta mucho 
+y anteriormente estuve en una crisis estudiantil sin saber que era lo que queria hacer, estudie por dos años medicina y deje la carrera ya que me 
+di cuenta que no era lo que realmente me gustaba.
 
-```wollok
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Me inscribe en la carrera de Programacion en el año 2022 despues 
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+Ademas de estudiar la Licenciatura en Programacion tengo muchos hobbies y actividades que me gusta hacer en mi tiempo libre 
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+![Foto Personal](./assets/FOTOPERSONAL.jpg)
+
+Ademas de estudiar la Linenciatura en Programacion tengo muchos hobbies y actividades que me gusta hacer en mi tiempo libre 
+
+
 
 ### Presentacion Personal
 
